@@ -1,0 +1,10 @@
+KALALO VERSION 1.0.1
+
+Date : 20/06/2026
+
+NOUVEAUTÉS
+
+✓ Correction export Excel
+✓ Amélioration du système de mise à jour
+✓ Optimisation des impressions
+✓ Correction de bugs mineurs
